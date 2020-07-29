@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-07-29 13:19:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>f7060be2db349f083353f22ebf9619b9</instance_id>
+        <instance_name>dev52939</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-07-29 13:19:45</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>Task.u_what_needed</record_name>
+        <reverted_from/>
+        <source>83867ba52f5a14109bf059ab2799b645</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>erin.drummond</sys_created_by>
+        <sys_created_on>2020-07-29 13:19:45</sys_created_on>
+        <sys_id>b2b6bfa52f5a14109bf059ab2799b687</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1739aba93950000001</sys_recorded_at>
+        <sys_updated_by>erin.drummond</sys_updated_by>
+        <sys_updated_on>2020-07-29 13:19:45</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>3eb6bfa5995a141081fe25ebab05d886</update_guid>
+        <update_guid_history>3eb6bfa5995a141081fe25ebab05d886:-429457270,b6b6bfa5b65a141040c020a349ee6783:-915848390,3eb6bfa58d5a14102d391ff3474c6b73:-567701384,7ab6bfa5ce5a1410c2321c9ba78f2470:-1423691141,b6b6bfa5795a14102914d862d499ac6d:-709049971,f2b6bfa5285a14108d4005cb399d5e6a:-1389990280,32b6bfa5e65a1410ae4e64f826899e67:221069324,7eb6bfa5bd5a1410b41b5add1c46f963:115963504,aab6bfa5455a1410d551d88c834eef60:-495418659,5988d38eae5c9410e561f0adb8c78ef1:0,9d88d38e3a5c941088f7694e605f30c4:-2102025764</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>erin.drummond</sys_created_by>
+        <sys_created_on>2020-07-29 13:20:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>94d637e52f5a14109bf059ab2799b693</sys_id>
+        <sys_metadata>94d637e52f5a14109bf059ab2799b693</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">b2b6bfa52f5a14109bf059ab2799b687</sys_update_version>
+        <sys_updated_by>erin.drummond</sys_updated_by>
+        <sys_updated_on>2020-07-29 13:20:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
